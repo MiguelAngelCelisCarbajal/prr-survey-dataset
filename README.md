@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19715131.svg)](https://doi.org/10.5281/zenodo.19715131)
 # Parametric Roll Resonance (PRR) - Systematic Literature Review Dataset
 
 This repository contains the complete dataset and classification for the research paper:  
